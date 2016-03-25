@@ -185,26 +185,25 @@ nav .menu{
 /* ------------------------ */
 
 .block1{
-	background: gray;
-	width: 460px;
+	background: #F3F3F3;
+	//width: 460px;
 	height: 380px;
 }
-
 .block2{
-	background: blue;
-	width: 460px;
+	background: #F3F3F3;
+	//width: 460px;
 	height: 380px;
 }
 
 .block3{
-	background: purple;
-	width: 920px;
+	background: #F3F3F3;
+	//width: 920px;
 	height: 360px;
 }
 
 .blockfb{
 	background: green;
-	width: auto;
+	//width: auto;
 	height: 680px;
 	padding-left: 0px;
 	padding-right: 0px;
