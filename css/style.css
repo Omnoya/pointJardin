@@ -204,8 +204,10 @@ nav .menu{
 
 .blockfb{
 	background: green;
-	width: 290px;
+	width: auto;
 	height: 680px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .block2 h1{
@@ -218,3 +220,14 @@ nav .menu{
 	margin-top: 19px;
 }
 
+/* Footer
+------------------------- */
+
+footer{
+	background: #000;
+	height: 92px;
+	color: #448A22;
+	clear: both;
+	margin-top: 10px;
+	padding-left: 10px;
+}
